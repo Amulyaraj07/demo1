@@ -201,7 +201,7 @@ myvehicle(vehicleOne);
 function myvehicle(vehicle){
     const message='My'+vehicle.type +'is a'+vehicle.color+' '+vehicle.brand+' '+vehicle.model+'.';
 }
-
+myvehicle(vehicleOne);
 //new way
 
 // const vehicleTwo={
